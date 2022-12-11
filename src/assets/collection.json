@@ -1,0 +1,319 @@
+[
+    {
+        "name": "Songable",
+        "date": "2022-12-10",
+        "queryId": "songable",
+        "tag": [
+            "音楽",
+            "ニコニコメドレー",
+            "GUMI",
+            "VOCALOID",
+            "ニコニコメドレー投稿祭2022"
+        ],
+        "description": "きっと歌いやすいメドレー",
+        "nicoId": "sm41487334",
+        "contents": [
+            {
+                "songName": "Songable欲張りセット(歌詞、2mix、オフボーカル、ガイドボーカル入り)",
+                "download": "https://1drv.ms/u/s!Ah9aQE8ok168ljmu221VLKwBkK83?e=rJ1B86"
+            }
+        ]
+    },
+    {
+        "name": "時給300億円ほしい(Ya Barely Remix)",
+        "date": "2022-11-3",
+        "queryId": "b300metan",
+        "tag": [
+            "NEUTRINO",
+            "時給300億円ほしい",
+            "わかる",
+            "Remix",
+            "四国めたん"
+        ],
+        "description": "[かなり昔のネタ](https://www.nicovideo.jp/watch/sm29738148)を擦る",
+        "nicoId": "sm41318593",
+        "contents": [
+            {
+                "songName": "時給300億円ほしい(Ya Barely Remix)",
+                "download": "https://1drv.ms/u/s!Ah9aQE8ok168lioL08RYu_t7wlRM?e=IbfagV",
+                "songUrl": "https://public.bl.files.1drv.com/y4mDHcXVqsxWKqMoMT-se3btFWsNR--MjyCTlRkVnGPhBKV4iNFDRf7Ek9CN0UtLaj7Kuw0proDz7C4j0C_7kz97vix_ih2-KFv7soX2ObbTRzNJvJ-6EQNr3RpfTvAy1d_qPvRKLtW9hY-5maUpTJnpmQuvoAvaVsQrECgWghF4dVbb3VFh2aCP_OhhTmSbtQZUdGyvKV1CNuWm3wUZRJaASuf_DsXMeApr9UfGk9rPFk?"
+            },
+            {
+                "songName": "時給300億円ほしい(Ya Barely Remix Instrumental)",
+                "download": "https://1drv.ms/u/s!Ah9aQE8ok168liv7Bki423P_JnW8?e=rnpiET",
+                "songUrl": "https://public.bl.files.1drv.com/y4m8ETbcmVD_0cHEaLoMh6MQUsLMvPBbLQsti6FlNBdWERlisxpz7w7KRyBe658tnHLpH2zPEVkJBiI0FXC3zddppoA2wUbsI2-jHN_4NsK9lwuEcJ307a20xwPzJXJSR9rbNjKUuYYw2-oedWU3oQkEcxDY1RMrn5_MwujDe3Os-XiOrhmeLalcqVOA8X8Ns4H31cYZt0vPZ3AI7qbVJIShfviFx-KZTRDanPAJZ7iYgc?"
+            }
+        ]
+    },
+    {
+        "name": "voina",
+        "date": "2022-10-15",
+        "queryId": "voina",
+        "tag": [
+            "A.I.VOICE",
+            "VOICEVOX",
+            "琴葉茜",
+            "琴葉葵",
+            "voina",
+            "春日部つむぎ",
+            "ソフトウェア"
+        ],
+        "description": "rinna社のAPIとボイボ・ボイロを繋げるアプリです。",
+        "nicoId": "sm41236331",
+        "contents": [
+            {
+                "songName": "GitHubリポジトリ(ダウンロード)",
+                "download": "https://github.com/uboar/voina/releases"
+            }
+        ]
+    },
+    {
+        "name": "CHAOS_",
+        "date": "2022-09-21",
+        "queryId": "chaosunderbar",
+        "tag": [
+            "音楽",
+            "ニコニコメドレー",
+            "ソフトウェアシンガー",
+            "カオス",
+            "第10回メドレー競作"
+        ],
+        "description": "重ね多めの競作カオスメドレー。歌付きのカオスってあんまりないかも",
+        "nicoId": "sm41110474",
+        "contents": [
+            {
+                "songName": "CHAOS_",
+                "download": "https://1drv.ms/u/s!Ah9aQE8ok168kxRQhUEIHbnyslW1?e=Ky4tHo",
+                "songUrl": "https://ppwzsg.bl.files.1drv.com/y4m2nbNphr2i79CU67XX4e-3mHQ2h-oOeVEKW7O19vZP-Zj-aY9-ZsrINFUkgPr_4ZRapJMjf__qNHM0u3NpQn7us56Rn-7Vb0FNJ-MafjRdpqXmd6VSN-5NuFDBzDN20v7m3Yc9JarlteFKcgTwiC9CahQ7AMkinWjo8ouoKYze-LKIi34PW4BOPAdJ0y2S9gVVQH8w6oEd1w0up0X0daRMA?"
+            },
+            {
+                "songName": "CHAOS_(Off Chaos)",
+                "download": "https://1drv.ms/u/s!Ah9aQE8ok168kxKBCAeLF3zs3eu7?e=Wt5jLQ",
+                "songUrl": "https://pjwzsg.bl.files.1drv.com/y4m34SFKd5FX208mU5tAB4oo8H5of8knb2BfB2SEwbbPlspMjF3L1ydUZ4siqnAuJcwp5MJMgYtW72QSw63420eAU7wBigt5TJWnI3gmfw4MZ4Ct1K-C7HhvhoYmNnj_E-Ts7z_PJrkr19yow9dN1_A7Xk1LzOPkEFHxmNWm-pAITzMKP0KyTm5LLCo2_MJBG4biRhH5ZTO3IqcuPzZsSOcrw?"
+            },
+            {
+                "songName": "CHAOS_(Instrumental)",
+                "download": "https://1drv.ms/u/s!Ah9aQE8ok168kxNItiIg3RnOW3xw?e=bBE6B3",
+                "songUrl": "https://pzwzsg.bl.files.1drv.com/y4md7rmixTZ0IiVlGgGC6XHym-Oqvxv9mIifcpHV26-KHCE4gQ6N7kKa-XuczgBJPsJy3C-lwE_2hRHAc9msINZL_16ZGZaK368rXIHSeCLZthPoJOzcbJcgwK16KAMfftZADfKNa5Y3CpuE0b3_m6rgQqGSSu7cP2W1FmzrFnCEnkV1jnCetOHz36mJS7XGOd2R-hXjtsx7ZoZApqLiMKD7w?"
+            }
+        ]
+    },
+    {
+        "name": "遂にラズパイZero2を手に入れた茜ちゃん",
+        "nicoId": "sm41064639",
+        "date": "2022-09-11",
+        "queryId": "kotonoha-raspizero2",
+        "tag": [
+            "解説",
+            "A.I.VOICE",
+            "琴葉茜",
+            "琴葉葵",
+            "電子工作",
+            "Raspberry Pi Zero 2 W"
+        ],
+        "description": "琴葉姉妹がRaspberry Pi Zero 2 Wのちょっとした解説をするなど。"
+    },
+    {
+        "name": "ニコメドRTA ボーカル10曲部門 Ver.uboar",
+        "date": "2022-09-04",
+        "nicoId": "sm41031343",
+        "queryId": "nicomedrta",
+        "tag": [
+            "音楽",
+            "ニコニコメドレー",
+            "ニコメドRTA",
+            "ソフトウェアシンガー"
+        ],
+        "description": "10曲のメドレーをいかに早く(自分の妥協できるギリギリのラインを攻めて)作れるかという[yuuyuuさんの企画に乗っかりました。](https://twitter.com/yuuyuu200118/status/1573495820820717568)",
+        "contents": [
+            {
+                "songName": "ニコメドRTA ボーカル10曲部門 Ver.uboar",
+                "download": "https://1drv.ms/u/s!Ah9aQE8ok168kxAibyPbTBQFi5nA?e=XFgwRm",
+                "songUrl": "https://rjvojw.bl.files.1drv.com/y4mSNW2scUJSNOeQbFgp9HYF7j4t19j-62vbKJrEHQnpslBHnlvsHBOdt3IlvxMWEpVxt4_xMxrx9FS51UCxpaZOzZmWTXKh404vEKCNw_99GZbnyy89z7JddE1RbIgrU_jCqouYbyOQskvqHEMnex1SUJXOPqWOUWEhBTUWFlLu3zsniov7YdCI3l-YbeVL0DRVi3AAh2bsdxGi3NM1usFgg?"
+            },
+            {
+                "songName": "ニコメドRTA ボーカル10曲部門 Ver.uboar(Instrumental)",
+                "download": "https://1drv.ms/u/s!Ah9aQE8ok168kw5C9XqwhJGu62eA?e=pQLu6D",
+                "songUrl": "https://qpvojw.bl.files.1drv.com/y4menVeRxDGFskDSj75vjNVWq35Z0UHUJaqwuZXERP5_yptdpwtYHRgzK8P0GIWYci60Ins0IzDKt3n8h7qrys476zmbw6GHclb_SpYYb-CyqClcCEZR9RRRDmKSFnRCDq_mUjGsGGPEQwjw1yK1N9j6Ln8L0HSEdHmJoUv4rsS1Ptm_1AWdX4nwZMSxmqBGiGsyHw_BCrpwVGBanPtoHDX9g?"
+            }
+        ]
+    },
+    {
+        "name": "クエストクリア!! ～ 大集合！ワクワク超オールスター無双アーカイブス大全DXリミックス in Japan 夏の陣SP ～",
+        "date": "2022-08-05",
+        "queryId": "questclear",
+        "tag": [
+            "音楽",
+            "ニコニコメドレー",
+            "合作"
+        ],
+        "description": "みんなの大好きなゲーム音楽をまとめて1つのメドレーにしました！<br>中盤部分のパート打ち込みと構成、全体のマスタリングを担当しています。",
+        "nicoId": "sm40874859",
+        "contents": [
+            {
+                "songName": "クエストクリア!! ～ 大集合！ワクワク超オールスター無双アーカイブス大全DXリミックス in Japan 夏の陣SP ～",
+                "download": "https://drive.google.com/drive/folders/1WaASmcII7tX6q_U2CFsbDkgoUYOTZCDs?usp=sharing"
+            },
+            {
+                "songName": "クエストクリア!! ～ 大集合！ワクワク超オールスター無双アーカイブス大全DXリミックス in Japan 夏の陣SP ～(uboar only)"
+            }
+        ]
+    },
+    {
+        "name": "フライデープラネット(Ya Barely Remix)",
+        "date": "2022-08-05",
+        "queryId": "fridayplanet",
+        "tag": [
+            "音楽",
+            "NEUTRINO",
+            "内田温",
+            "ずんだもん",
+            "Remix"
+        ],
+        "description": "修正前の動画ではめたんちゃんがアレをアレする画がありました",
+        "nicoId": "sm40872766",
+        "contents": [
+            {
+                "songName": "フライデープラネット(Ya Barely Remix)",
+                "download": "https://1drv.ms/u/s!Ah9aQE8ok168kw_QVZ6KschrgBii?e=X7gkzv",
+                "songUrl": "https://q5vojw.bl.files.1drv.com/y4mdkJLb0MbrYwSE7jjjKr3BCjcIMX_h6N5jexTUsgjzlTJ88c-cKtKxyH2MkaDTf6FFEOpBwCAMFRyU9k18kCQvUgWwheMXyoZ_UE0r7i6JEVKl0FalVvHJHyypMP8dowNZOlJkjLCewTuZlIkiM_R1ELuOPcVMkFgGScQtp5_ukFPXeKeE0rArqBYp3ylZEQnJB_GH2uKu_Y_fIJpE7DKug?"
+            },
+            {
+                "songName": "フライデープラネット(Ya Barely Remix 非検閲版)",
+                "download": "https://1drv.ms/u/s!Ah9aQE8ok168kxHBfjkrZloz5Ebb?e=CUXLfP",
+                "songUrl": "https://rzvojw.bl.files.1drv.com/y4mcHpA1vp2KJl6P-ldfK7YwHzFs9Itb0xY3u1QYKvR0_N3KU-Fy0Ab8odcVufuic1D3fhs5FR_EcNGQShUAHNheVPJfNG77UZy-i-lT5Enc9CRg6NWriTO9BtIwqjlpiB8HMlpzKSzQ6Rum-0rRKLB6adUIEKbPmruZ2RwrkC4JwT6iByD7hL2RL3VA06qLqFGqSV0kSzH1_hWSLVsTYlqrw?"
+            }
+        ]
+    },
+    {
+        "name": "DINAMIX DIAGRAM",
+        "date": "2022-07-16",
+        "queryId": "dinamixDiagram",
+        "tag": [
+            "音楽",
+            "ニコニコメドレー",
+            "合作"
+        ],
+        "description": "[大変な途中下車シリーズ15周年記念合作](https://www.nicovideo.jp/watch/sm40756165)のメドレー単品です。後半部分のパート打ち込みを担当しています。",
+        "nicoId": "sm40776169",
+        "contents": [
+            {
+                "songName": "DINAMIX DIAGRAM",
+                "download": "https://mega.nz/file/E0oXlJrR#7o6og_m8gRtkHlvRvsgxWajj3tuhYjmP0aGVWX5s5D4"
+            },
+            {
+                "songName": "DINAMIX DIAGRAM(uboar only)"
+            }
+        ]
+    },
+    {
+        "name": "スキキョクウタツナ",
+        "date": "2022-07-09",
+        "queryId": "dinamixDiagram",
+        "tag": [
+            "音楽",
+            "ニコニコメドレー",
+            "ソフトウェアシンガー"
+        ],
+        "description": "好曲歌繋←実は前作とほぼ同じタイトルらしい",
+        "nicoId": "sm40743080",
+        "comment": "アルバム『[好曲歌繋](../albums/skut)』からダウンロードできます",
+        "contents": [
+            {
+                "songName": "スキキョクウタツナ",
+                "songUrl": "https://4amfza.bl.files.1drv.com/y4mtTYqrnRDQW9MVusEzHTlaUVAW1CvedkqbUSd_LpkUOnVaCP6vuebbqTLCLgzgSJO32Tph0l570beoZew-6QSNLpTrmtYYW-4BwJf0fvh01wludvejq7KpQiwkGBZM7Ganh0G_45NG7e1UN76rNcILReuCKK_KVFDYhUEt4vyr13zHjF93FTdv9f08Wpobq-XkKMZFcfWenJ3PwYftNWNWQ?"
+            },
+            {
+                "songName": "スキキョクウタツナ(Instrumental)",
+                "songUrl": "https://1wmfza.bl.files.1drv.com/y4m5KJdMZoFfYL2WZ1pukGE4WIYvdItQWoZRL_lod5MEZNSAwn_jBffP74Afz6Ce5wlb8qgM09Hjze8FdRGZ8Sf1hlHdP2Q4YWom7TilWEzI_Xixd47kjybiYudbnRu2Gmu1OhYwP1uLGM-Lf5qALi6_M8uPgMyRTG0J8Ajzx6Bh2lkOruE2o5jFjXng8IcBvp3TeJCZbQvsg9xYdv2U6-uDA?"
+            }
+        ]
+    },
+    {
+        "name": "暮しガスメータ(Ya Barely Remix)",
+        "date": "2022-05-21",
+        "queryId": "gasmeter",
+        "tag": [
+            "音楽",
+            "CeVIO AI",
+            "Remix",
+            "結月ゆかり"
+        ],
+        "description": "ゆかりさんは日没後しか買い物に行かないらしい。[原作](https://www.nicovideo.jp/watch/sm40037907)",
+        "nicoId": "sm40498693",
+        "comment": "アルバム『[好曲歌繋](../albums/skut)』からダウンロードできます",
+        "contents": [
+            {
+                "songName": "暮しガスメータ(Ya Barely Remix)",
+                "songUrl": "https://1wmfza.bl.files.1drv.com/y4mB4CxxO3B51tu4OMCIZLak_PUWtb-Vtx35DSd9Ov26kXMsViXe4xCmzQHsfMikpHQ_Cu5vEnrAhBCgHftqTYd-iTHPvzV63DLOuAYHjPqKHdzvu_O54Qssl15HK7QmQraCzpBidLjk9N7T57GZ0wO1MYUyeRdF0OXjP-CmwpYEP_ZSajJz30b_mXL30UD6oapmQFlH0bBXFc_7THNadIbqg?"
+            },
+            {
+                "songName": "暮しガスメータ(Ya Barely Remix Instrumental)",
+                "songUrl": "https://1wmfza.bl.files.1drv.com/y4m_3ATzbfY2xs6YXytywEAS9zrwUPF1NmLWGt_d38IfA4ZSAoeLxrKyyG8_y9jyTG3rDmrOXUTXFlxzYzv1tyWfzZFpzn5btS93QUhgZl5tKsE_vYhziHB7VLrIKGTtUsc9sEJZZA_HtleQxT38F1Q6823zc3KJRSbEm1K-LmrCyErugoa20lpeWwW8q1buyICT11b4nFSDjJgY0z3-wPb5g?"
+            }
+        ]
+    },
+    {
+        "name": "【ED】Med-1グランプリ2022",
+        "nicoId": "sm40425496",
+        "queryId": "med1ed",
+        "comment": "全参加作品バージョンのエンディングを後日公開予定です！",
+        "description": "2022年春、己の力のみを信じ、頂点の座を賭けて繋ぐ、22のニコニコメドレーがあった。",
+        "date": "2022-05-04",
+        "tag": [
+            "音楽",
+            "ニコニコメドレー",
+            "Med-1グランプリ"
+        ]
+    },
+    {
+        "name": "10KYOKUKOMDL",
+        "date": "2022-02-11",
+        "comment": "アルバム『[好曲歌繋](../albums/skut)』からダウンロードできます",
+        "description": "ウボメド10周年の、10曲のメドレー",
+        "queryId": "10kyokukomdl",
+        "tag": [
+            "音楽",
+            "ニコニコメドレー",
+            "ソフトウェアシンガー"
+        ],
+        "nicoId": "sm40025827",
+        "contents": [
+            {
+                "songName": "10KYOKUKOMDL",
+                "songUrl": "https://1wmfza.bl.files.1drv.com/y4mJLhNKsCxIVxMOgify1QiKPwbiAL_GIVjsjKUtEE1ZDwildKPhUbpH-wT-lN7LYArmj6cNUW3bG26PPr0Nfp8ibvn0vdPIBXE_5EBxFpwXcFdi1yI04YceqS72fEsC4LO31Sz7-nXnEL33HfLtonZOrpJZwlY0-WUixCfEcnQlvlaTmhvnN-zTRqIIm9RVlPPAOYDOA9YmsZ1PKEYm2CoQw?"
+            },
+            {
+                "songName": "10KYOKUKOMDL(Instrumental)",
+                "songUrl": "https://1wmfza.bl.files.1drv.com/y4m_gRELyNTn8USTNV4vAAidJvqJteW0SskvNF-ydi7sLIe5WapdiaMSznbvOI2PfAKRLPMHryugl8DCFtJc_-jntcEv5bmM2DZ3m0TiZ5eDLFPkyb9tmlBrlmSJW0PPf1u1wiBmF7uy1jhMVvevNFX8d5yJjKZ8_CR-JnXi1_Dg_z7vTXz0jdRGJyD5yB3zdQ-8WR-Bf-Y1mh-UmGjDs8kQw?"
+            }
+        ]
+    },
+    {
+        "name": "現代デバフ",
+        "date": "2021-10-16",
+        "comment": "アルバム『[好曲歌繋](../albums/skut)』からダウンロードできます",
+        "description": "ボカコレ2021秋に出した可不ちゃんのうた",
+        "tag": [
+            "音楽",
+            "オリジナル曲",
+            "可不",
+            "CeVIO AI"
+        ],
+        "nicoId": "sm39491085",
+        "contents": [
+            {
+                "songName": "現代デバフ",
+                "songUrl": "https://3gmfza.bl.files.1drv.com/y4mLpUcYEXhBeFfH4T0_ZZXnWgg4B0Um6G9xtGFXWSHOzu3DAQAj5POV-n5gr9AULS4Bktao0e9M5-4QhU9ahNy0SfuZYC8KrqKca2noVoo2T-uURWTNqcRUUbrTfYL3MkVzqHsp0gLMLwxBmeGR6RFOqLIRiy936vXld6RaPhBCcnjFbMke8xE-_IcivKWXoSJARDYeFZtHwvLSDAQHSTAIQ?"
+            },
+            {
+                "songName": "現代デバフ(Instrumental)",
+                "songUrl": "https://1wmfza.bl.files.1drv.com/y4myV6KDG6lC9-6hfMf2Wrpt3NLXHwJc5Vb1_70vqgpR625JiTVOHCnTEusWrAfWisL5VlaRTGBKb_psJw8pxAoJ5LAhh2Q-fO0EjIgQZAWcWgGh0lI_KVWNOWuEshzmkjYklzxhoQuYX3OEa05OdpefjqitLRhR9sVT5zMzKdO4gVriRbGHmpQdG0aeEve-3U8Ym7TINiuZl97owWFYBX-xA?"
+            },
+            {
+                "songName": "現代デバフ(Instrumental 2mix)",
+                "download": "https://1drv.ms/u/s!Ah9aQE8ok168kxX2MqscBmaKXHaR?e=1auHVA"
+            }
+        ]
+    }
+]
