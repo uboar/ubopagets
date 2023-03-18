@@ -1,5 +1,44 @@
 [
     {
+        "name": "マテリアルルール",
+        "date": "2022-03-19",
+        "queryId": "materialrule",
+        "tag": [
+            "オリジナル曲",
+            "初音ミク",
+            "VOCALOID"
+        ],
+        "description": "ボカコレ2023春に出したミクちゃんのうた",
+        "nicoId": "sm41949646",
+        "contents": [
+            {
+                "songName": "音源(オフボーカル、2mixなど)",
+                "download": "https://1drv.ms/f/s!Ah9aQE8ok168lwwYT5AsjQ8Fb8OR?e=jFhiX9"
+            }
+        ]
+    },
+    {
+        "name": "MissLI",
+        "date": "2022-03-02",
+        "queryId": "missli",
+        "tag": [
+            "Misskey",
+            "Webアプリ",
+            "ソフトウェア"
+        ],
+        "description": "複数サーバーのタイムラインをまとめて見れるMisskeyのWebクライアントです。",
+        "contents": [
+            {
+                "songName": "使ってみる",
+                "download": "https://uboar.github.io/missli"
+            },
+            {
+                "songName": "リポジトリ",
+                "download": "https://github.com/uboar/missli"
+            }
+        ]
+    },
+    {
         "name": "Songable",
         "date": "2022-12-10",
         "queryId": "songable",
@@ -257,13 +296,18 @@
         "name": "【ED】Med-1グランプリ2022",
         "nicoId": "sm40425496",
         "queryId": "med1ed",
-        "comment": "全参加作品バージョンのエンディングを後日公開予定です！",
         "description": "2022年春、己の力のみを信じ、頂点の座を賭けて繋ぐ、22のニコニコメドレーがあった。",
         "date": "2022-05-04",
         "tag": [
             "音楽",
             "ニコニコメドレー",
             "Med-1グランプリ"
+        ],
+        "contents": [
+            {
+                "songName": "Med-1グランプリページから全22バージョンをダウンロード",
+                "songUrl": "https://med1gp.netlify.app/2022/ed"
+            }
         ]
     },
     {

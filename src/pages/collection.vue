@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import collectionData from "../assets/collection.json"
-import infoIcon from 'vue-material-design-icons/InformationOutline.vue'
-import windowCloseIcon from 'vue-material-design-icons/windowClose.vue'
+import windowCloseIcon from 'vue-material-design-icons/WindowClose.vue'
 import collectionDetailVue from "../components/collectionDetail.vue";
 
 import { marked } from 'marked';

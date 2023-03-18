@@ -3,7 +3,7 @@ import playIcon from 'vue-material-design-icons/Play.vue'
 import pauseIcon from 'vue-material-design-icons/Pause.vue'
 import infoIcon from 'vue-material-design-icons/InformationOutline.vue'
 
-import chevronLeft from 'vue-material-design-icons/chevronLeft.vue'
+import chevronLeft from 'vue-material-design-icons/ChevronLeft.vue'
 
 import { marked } from 'marked';
 import { nextTick, defineProps, onMounted, ref } from 'vue';

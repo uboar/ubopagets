@@ -1,6 +1,6 @@
 import { createStore } from "vuex";
 
-const generalTheme = "black"
+const generalTheme = "aqua"
 
 const store = createStore({
     state() {

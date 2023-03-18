@@ -7,7 +7,7 @@ import store from './scripts/store';
 
 <template>
   <div id="app" :data-theme="store.state.currentTheme" class="h-screen">
-    <div class="back fixed h-full w-screen z-0">
+    <div class="back fixed h-screen w-screen z-0">
     </div>
     <div class="z-50 w-full absolute">
       <navbar></navbar>

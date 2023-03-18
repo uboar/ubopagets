@@ -4,6 +4,7 @@ import TwitterIcon from 'vue-material-design-icons/Twitter.vue';
 import PostIcon from 'vue-material-design-icons/Post.vue';
 import TelevisionClassicIcon from 'vue-material-design-icons/TelevisionClassic.vue';
 import soundcloudIcon from 'vue-material-design-icons/Soundcloud.vue';
+import alphaKIcon from 'vue-material-design-icons/AlphaKCircle.vue';
 import albumIcon from 'vue-material-design-icons/Album.vue';
 import accountCircleIcon from 'vue-material-design-icons/AccountCircle.vue';
 import fileMusicIcon from 'vue-material-design-icons/FileMusic.vue';
@@ -11,6 +12,13 @@ import fileMusicIcon from 'vue-material-design-icons/FileMusic.vue';
 
 <template>
     <div class="grid justify-items-center">
+        <div class="tooltip tooltip-top w-4/5 m-2" data-tip="ニコメドSNSです。">
+            <a class="btn border-orange-500 text-orange-500 hover:bg-orange-500 hover:border-orange-500 btn-circle btn-block btn-outline border-2 shadow"
+                href="https://nicomedkey.cc">
+                <alpha-k-icon></alpha-k-icon>
+                <p class="text-xl ml-2 normal-case">nicomedkey.cc</p>
+            </a>
+        </div>
         <div class="tooltip tooltip-top w-4/5 m-2" data-tip="ニコニコ動画のユーザーページに移動します。">
             <a class="btn btn-circle btn-block btn-outline border-2 shadow"
                 href="https://www.nicovideo.jp/user/21791951">
@@ -33,7 +41,7 @@ import fileMusicIcon from 'vue-material-design-icons/FileMusic.vue';
             </a>
         </div>
         <div class="tooltip tooltip-top w-4/5 m-2" data-tip="技術系の文字書きをする時に使います。">
-            <a class="btn border-blue-600 text-blue-600 hover:bg-blue-600 hover:border-blue-600 btn-circle btn-block btn-outline border-2 shadow"
+            <a class="btn border-blue-800 text-blue-800 hover:bg-blue-800 hover:border-blue-800 btn-circle btn-block btn-outline border-2 shadow"
                 href="https://zenn.dev/uboar">
                 <post-icon></post-icon>
                 <p class="text-xl ml-2 normal-case">Zenn</p>

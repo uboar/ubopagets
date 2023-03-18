@@ -2,7 +2,7 @@
 import Headline from '../components/headline.vue';
 import Links from '../components/links.vue';
 
-import chevronDown from 'vue-material-design-icons/chevronDown.vue'
+import chevronDown from 'vue-material-design-icons/ChevronDown.vue'
 
 import { onMounted, ref } from 'vue';
 
